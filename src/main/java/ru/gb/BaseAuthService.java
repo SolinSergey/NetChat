@@ -1,7 +1,8 @@
-package Task1;
-import Task1.AuthService;
+package ru.gb;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import ru.gb.AuthService;
+import ru.gb.ClientHandler;
 
 import java.sql.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package Task1;
+package ru.gb;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.WindowAdapter;

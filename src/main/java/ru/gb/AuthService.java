@@ -1,4 +1,4 @@
-package Task1;
+package ru.gb;
 
 public interface AuthService {
     void start();

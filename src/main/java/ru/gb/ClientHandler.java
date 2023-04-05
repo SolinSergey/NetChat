@@ -1,4 +1,4 @@
-package Task1;
+package ru.gb;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
